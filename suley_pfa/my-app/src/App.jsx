@@ -1,10 +1,14 @@
-import AdminPage from "./admin/AdminPage";
-
+//import AdminPage from "./admin/AdminPage";
+import ClientPage from "./client/ClientPage";
 function App() {
   return (
+    //<div className="App">
+    //  <AdminPage />
+   // </div>
     <div className="App">
-      <AdminPage />
-    </div>
+    <ClientPage />
+  </div>
+    
   );
 }
 
