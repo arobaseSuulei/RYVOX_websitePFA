@@ -1,0 +1,79 @@
+
+[
+    {
+      "id": 1,
+      "nom": "Smartphone Galaxy Z5",
+      "description": "Smartphone haut de gamme avec écran AMOLED 6.7 pouces, triple caméra, et batterie longue durée.",
+      "prix": 899.99,
+      "stock": 25,
+      "categorie": "Smartphones",
+      "images": [
+        "https://example.com/images/galaxy-z5-front.jpg",
+        "https://example.com/images/galaxy-z5-back.jpg",
+        "https://example.com/images/galaxy-z5-side.jpg",
+        "https://example.com/images/galaxy-z5-camera.jpg",
+        "https://example.com/images/galaxy-z5-accessories.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nom": "Tablette ProTab 11",
+      "description": "Tablette 11 pouces avec processeur octa-core, stylet inclus, et écran 120 Hz.",
+      "prix": 599.99,
+      "stock": 18,
+      "categorie": "Tablettes",
+      "images": [
+        "https://example.com/images/protab-11-front.jpg",
+        "https://example.com/images/protab-11-back.jpg",
+        "https://example.com/images/protab-11-side.jpg",
+        "https://example.com/images/protab-11-stylus.jpg",
+        "https://example.com/images/protab-11-package.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "nom": "Écouteurs SonicPods",
+      "description": "Écouteurs Bluetooth avec réduction de bruit active et autonomie de 40 heures.",
+      "prix": 129.99,
+      "stock": 50,
+      "categorie": "Audio",
+      "images": [
+        "https://example.com/images/sonicpods-case.jpg",
+        "https://example.com/images/sonicpods-earbuds.jpg",
+        "https://example.com/images/sonicpods-inuse.jpg",
+        "https://example.com/images/sonicpods-charging.jpg",
+        "https://example.com/images/sonicpods-box.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "nom": "Laptop UltraBook X1",
+      "description": "Laptop ultraléger avec Intel i7, 16Go RAM et SSD 1To, parfait pour les pros.",
+      "prix": 1399.99,
+      "stock": 12,
+      "categorie": "Laptops",
+      "images": [
+        "https://example.com/images/ultrabook-x1-front.jpg",
+        "https://example.com/images/ultrabook-x1-back.jpg",
+        "https://example.com/images/ultrabook-x1-keyboard.jpg",
+        "https://example.com/images/ultrabook-x1-side.jpg",
+        "https://example.com/images/ultrabook-x1-package.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "nom": "TV UltraVision 65\" 4K",
+      "description": "Téléviseur 65 pouces 4K HDR10+, Dolby Vision et Android TV intégré.",
+      "prix": 1099.99,
+      "stock": 7,
+      "categorie": "TV",
+      "images": [
+        "https://example.com/images/ultravision-65-front.jpg",
+        "https://example.com/images/ultravision-65-side.jpg",
+        "https://example.com/images/ultravision-65-back.jpg",
+        "https://example.com/images/ultravision-65-remote.jpg",
+        "https://example.com/images/ultravision-65-wallmount.jpg"
+      ]
+    }
+  ]
+  
