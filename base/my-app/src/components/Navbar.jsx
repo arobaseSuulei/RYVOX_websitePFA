@@ -1,6 +1,6 @@
 export default function Navbar() {
     return(
-        <div className={'p-6 flex bg-orange-400 font-semibold gap-8 items-center justify-between sm:px-48 '}>
+        <div className={'p-6 flex bg-blue-600 text-white font-semibold gap-8 items-center justify-between sm:px-48 '}>
 
             <div className={''}>
                 <p>
